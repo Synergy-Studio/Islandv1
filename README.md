@@ -28,4 +28,12 @@
 
     -Day/Night cycle interfering with the teleport 
      system.
+    -Push Cube: Locked Z-Axis
+    -Tree Dispersion: Locked Z-Axis
+    -AI Stalker Snake: Locked Z-Axis
+
+    Potential Fix:
+    -Determine Z-height of landscape at target 
+     location / look at pathfinding / play with 
+     collision of meshes
 ******************************************************
