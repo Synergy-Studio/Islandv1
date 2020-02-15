@@ -1,4 +1,4 @@
-# v1_0 Mechanics Migration
+# v1_1 Mechanics Migration
 
 ******************************************************
 	    	  Dark Entity
@@ -27,13 +27,8 @@
 ******************************************************
 
     -Day/Night cycle interfering with the teleport 
-     system.
+     system if switched while stood on teleport.
     -Push Cube: Locked Z-Axis
-    -Tree Dispersion: Locked Z-Axis
-    -AI Stalker Snake: Locked Z-Axis
+    -AI Stalker Snake: Integrate nav mesh pathfinding.
 
-    Potential Fix:
-    -Determine Z-height of landscape at target 
-     location / look at pathfinding / play with 
-     collision of meshes
 ******************************************************
